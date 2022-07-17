@@ -12,6 +12,6 @@
 
 * FLIP-FLOP T ( toggle)
 
-##link Explicativo
+## link Explicativo
 [Flip-Flops](https://pt.wikipedia.org/wiki/Flip-flop)
 
